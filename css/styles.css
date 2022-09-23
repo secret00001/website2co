@@ -1,0 +1,162 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 2em;
+  color: #AC4425;
+
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Bungee Spice', cursive, 'Permanent Marker', cursive;
+  color:  #66BFBF;
+  line-height: 2;
+
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2,5rem;
+  color:  #66BFBF;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+.Secção-Topo {
+  background-color: #5CB8E4;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 50px 0;
+
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 30px 0 30px;
+}
+
+.pro {
+  text-decoration: underline;
+
+}
+.intro {
+  width: 40%;
+  display: inline-block;
+
+}
+
+.montanha {
+  position: relative;
+  top: 10px;
+}
+
+.ceu {
+  position: absolute;
+  left: 400px;
+  bottom: 300px;
+}
+
+.ceu2 {
+  position: absolute;
+  right: 650px;
+  top: 20px;
+}
+
+a {
+  color: #11999E;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+/* os titulos: font-family: 'Bungee Spice', cursive;
+font-family: 'Merriweather', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Permanent Marker', cursive;
+font-family: 'Sacramento', cursive; */
+
+.htmlcss {
+  float: left;
+  width: 400px;
+  padding: 30px;
+  margin-right: 20px;
+}
+.Duarte {
+  width: 150px;
+}
+
+.PO {
+  float: right;
+  width: 400px;
+  padding: 30px;
+}
+
+.office {
+  width: 400px;
+  margin: 40px auto;
+}
+
+.skill-row {
+  width: 65%;
+  margin: 100px auto 100px;
+  text-align: left;
+  line-height: 2;
+}
+
+.branco {
+  color: #EAF6F6;
+
+}
+
+hr {
+
+  border-style: none;
+  border-top-style: dotted;
+  width: 3%;
+  border-width: 5px;
+  border-color: #319DA0;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #2980b9);
+  background-image: -moz-linear-gradient(top, #11cdd4, #2980b9);
+  background-image: -ms-linear-gradient(top, #11cdd4, #2980b9);
+  background-image: -o-linear-gradient(top, #11cdd4, #2980b9);
+  background-image: linear-gradient(to bottom, #11cdd4, #2980b9);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 30px;
+  padding: 8px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #2980b9);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #2980b9);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #2980b9);
+  background-image: -o-linear-gradient(top, #3cb0fd, #2980b9);
+  background-image: linear-gradient(to bottom, #3cb0fd, #2980b9);
+  text-decoration: none;
+}
+
+
+.contact-me {
+  margin: 40px auto;
+}
